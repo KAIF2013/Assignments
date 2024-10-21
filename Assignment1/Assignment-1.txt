@@ -1,0 +1,56 @@
+ASSIGNMENT-1
+
+1. What is HTML?
+Ans. HTML stands for HyperText Markup Language, and it is the standard language used to create web pages and web applications. It provides the structure of a webpage, allowing you to define elements such as text, images, links, forms, and more.
+
+2. Are the HTML tags & elements the same thing?
+Ans. Not exactly! While HTML tags and HTML elements are closely related, they are technically not the same thing.
+
+a. HTML Tags:
+Tags are the actual keywords surrounded by angle brackets (< >) that you use to define elements.
+Tags tell the browser where an element starts and ends.
+
+2. HTML Elements:
+An element is the entire structure that includes the opening tag, the content inside the tags, and the closing tag (if there is one).
+So, the element represents both the tag and the content it affects.
+
+3. What are the tags & attributes in HTML?
+
+Ans. HTML tags are almost like keywords where every single tag has unique meaning. HTML elements specifies the general content. HTML attributes specify various additional properties to the existing HTML element. Tags define the type of HTML element (e.g., heading, paragraph).
+
+4. What are void elements in HTML?
+
+Ans. A void element is an element whose content model never allows it to have contents under any circumstances. Void elements can have attributes. The following is a complete list of the void elements in HTML : area , base , br , col , command , embed , hr , img , input , keygen , link , meta , param , source , track , wbr.
+
+
+5. What are the features of HTML?
+
+Ans. Features of HTML
+      It is easy to learn and easy to use.
+      It is platform-independent.
+      Images, videos, and audio can be added to a web page.
+      Hypertext can be added to the text.
+      It is a markup language.
+
+6. Difference between HTML vs XHTML.
+
+Ans.
+
+ a.   *HTML5*
+
+HTML is the Hypertext Markup Language which is the most widely used language over the internet. HTML is used to create web pages and link them from one to another. Please note HTML is not a programming language, it is a markup language. We can use different other technologies as like CSS and javascript to give a new look to the pages developed by HTML.
+
+
+b.    *XHTML*
+
+XHTML stands for Extensible Hypertext Markup Language. It can be considered as a part of the XML markup language this is because XHTML has features of both XML and HTML. XHTML is extended from XML and HTML. XHTML can be considered as a better version of HTML. 
+
+
+
+
+
+
+
+
+
+
